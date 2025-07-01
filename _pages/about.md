@@ -21,7 +21,7 @@ Hi,👋 I am Hang Yu, an undergraduate student majoring in Computer Science at S
 # 🔥 News
 - *2025.06*: &nbsp;🎉🎉 DexH2R was accepted by ICCV 2025
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images\DexH2R_teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/DexH2R_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DexH2R: A Benchmark for Dynamic Dexterous Grasping in Human-to-Robot Handover]()
